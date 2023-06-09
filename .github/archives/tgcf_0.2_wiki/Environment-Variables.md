@@ -25,8 +25,8 @@ There are various methods to set env vars
 You can easily set environment variables for `tgcf` using a `.env` file in the directory from which `tgcf` is invoked.
 
 ```shell
-API_ID=543213
-API_HASH=uihfuiwruiw28490238huawfiuhf
+API_ID=27265062
+API_HASH=d4d000f79781fbbf3199d0ef6adc657a
 # put your real values here
 ```
 
